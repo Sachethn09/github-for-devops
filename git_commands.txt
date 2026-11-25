@@ -1,0 +1,9 @@
+python testing.py                          
+git init                                     
+git status                                   
+git testing.py                               
+git status                                   
+git add testing.py                           
+git commit -m "Add testing.py"               
+git status                                   
+git branch devgit status
